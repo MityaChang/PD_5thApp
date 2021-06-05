@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/btnfocus" />
+    <stroke android:width="5dp" android:color="#1B641C " />
+    <corners android:topRightRadius="15dp"
+        android:topLeftRadius="15dp"
+        android:bottomLeftRadius="200dp"
+        android:bottomRightRadius="200dp"/>
+
+</shape>
